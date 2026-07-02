@@ -1,3 +1,5 @@
+![Logo](assets/logo.png)
+
 # 🚀 TravelPulse
 
 ## AI-Powered Hotel Booking Analytics Platform
