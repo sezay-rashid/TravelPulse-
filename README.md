@@ -212,7 +212,7 @@ TravelPulse/
 Clone the repository:
 
 ```bash
-git clone https://github.com/sezay-rashid/TravelPulse-.git
+git clone https://github.com/sezay-rashid/TravelPulse.git
 ```
 
 Install the required packages:
