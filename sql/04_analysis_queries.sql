@@ -1,5 +1,3 @@
-USE travelpulse_db;
-
 -- 1. Total number of bookings
 SELECT COUNT(*) AS total_bookings
 FROM bookings;
