@@ -2,11 +2,7 @@
   <img src="logo.png" width="200">
 </p>
 
-## AI-Powered Hotel Booking Analytics Platform
-
-TravelPulse is an end-to-end hotel booking analytics platform developed as part of my **BSc (Hons) Computing** project.
-
-The application combines **Python**, **MySQL**, **Machine Learning**, and **Streamlit** to analyse hotel booking data, uncover customer behaviour, visualise business trends, and predict booking cancellations through an interactive dashboard.
+## AI-powered hotel booking analytics platform built with Python, MySQL, Streamlit and Machine Learning.
 
 ---
 
