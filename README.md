@@ -2,8 +2,6 @@
   <img src="logo.png" width="250">
 </p>
 
-# 🚀 TravelPulse
-
 ## AI-Powered Hotel Booking Analytics Platform
 
 TravelPulse is an end-to-end hotel booking analytics platform developed as part of my **BSc (Hons) Computing** project.
