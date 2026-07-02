@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="logo.png" width="250">
+<p align="left">
+  <img src="logo.png" width="200">
 </p>
 
 ## AI-Powered Hotel Booking Analytics Platform
