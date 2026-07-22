@@ -41,9 +41,9 @@ This project demonstrates practical experience in:
 ## Dashboard Preview
 
 <p align="center">
-  <img src="docs/screenshots/travelpulse_dashboard_preview.png"
-       alt="TravelPulse analytics dashboard preview"
-       width="1000">
+ <img src="screenshots/travelpulse_dashboard_preview.png"
+     alt="TravelPulse analytics dashboard preview"
+     width="850">
 </p>
 
 ## ✨ Key Features
