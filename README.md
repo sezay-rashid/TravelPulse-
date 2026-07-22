@@ -43,7 +43,7 @@ This project demonstrates practical experience in:
 <p align="center">
  <img src="screenshots/travelpulse_dashboard_preview.png"
      alt="TravelPulse analytics dashboard preview"
-     width="850">
+     width="750">
 </p>
 
 ## ✨ Key Features
@@ -66,7 +66,7 @@ This project demonstrates practical experience in:
 ### 📊 Overview Dashboard
 
 <p align="center">
-  <img src="screenshots/01_Overview_Dashboard.png" width="70%">
+  <img src="screenshots/01_Overview_Dashboard.png" width="60%">
 </p>
 
 ---
@@ -74,7 +74,7 @@ This project demonstrates practical experience in:
 ### 📈 Booking Trends
 
 <p align="center">
-  <img src="screenshots/02_Booking_Trends.png" width="70%">
+  <img src="screenshots/02_Booking_Trends.png" width="60%">
 </p>
 
 ---
@@ -82,7 +82,7 @@ This project demonstrates practical experience in:
 ### 👥 Customer Behaviour
 
 <p align="center">
-  <img src="screenshots/03_Customer_Behaviour.png" width="70%">
+  <img src="screenshots/03_Customer_Behaviour.png" width="60%">
 </p>
 
 ---
@@ -90,7 +90,7 @@ This project demonstrates practical experience in:
 ### 🔎 Data Explorer
 
 <p align="center">
-  <img src="screenshots/04_Data_Explorer.png" width="70%">
+  <img src="screenshots/04_Data_Explorer.png" width="60%">
 </p>
 
 ---
@@ -98,7 +98,7 @@ This project demonstrates practical experience in:
 ### 🤖 AI Prediction Dashboard
 
 <p align="center">
-  <img src="screenshots/05_AI_Prediction.png" width="70%">
+  <img src="screenshots/05_AI_Prediction.png" width="60%">
 </p>
 
 ---
@@ -106,7 +106,7 @@ This project demonstrates practical experience in:
 ### 📊 Feature Importance
 
 <p align="center">
-  <img src="screenshots/06_Feature_Importance.png" width="70%">
+  <img src="screenshots/06_Feature_Importance.png" width="60%">
 </p>
 
 ---
@@ -114,7 +114,7 @@ This project demonstrates practical experience in:
 ### 📈 Model Performance
 
 <p align="center">
-  <img src="screenshots/07_Model_Performance.png" width="70%">
+  <img src="screenshots/07_Model_Performance.png" width="60%">
 </p>
 
 ---
@@ -122,7 +122,7 @@ This project demonstrates practical experience in:
 ### 📉 Monthly Booking Trends
 
 <p align="center">
-  <img src="screenshots/08_Monthly_Booking_Trends.png" width="70%">
+  <img src="screenshots/08_Monthly_Booking_Trends.png" width="60%">
 </p>
 
 ---
